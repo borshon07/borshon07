@@ -25,7 +25,7 @@ $ status --current
 ```
 ---
 
-## ⚙️ Languages & Tools
+## ⚙️ `Languages & Tools`
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -53,7 +53,7 @@ $ status --current
 
 ---
 
-📊 GITHUB_ANALYTICS
+## 📊 `GITHUB_ANALYTICS`
 
 <div align="center">
 
@@ -76,7 +76,7 @@ $ status --current
 
 ---
 
-📈 CONTRIBUTION_ACTIVITY
+## 📈 `CONTRIBUTION_ACTIVITY`
 
 <div align="center">
 <img 
@@ -88,7 +88,7 @@ $ status --current
 
 ---
 
-## 🚀 What I Build
+## 🚀 `What I Build`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Modern%20Web%20Apps-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -99,7 +99,7 @@ $ status --current
 </p>
 
 ---
-## 🐍 `CONTRIBUTION_SNAKE`
+## 🕹️ `Contribution Pacman `
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
@@ -133,7 +133,8 @@ $ status --current
 ### `BUILD • LEARN • IMPROVE`
 ⭐ Thanks for visiting my profile!
 </div>
-----
+
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
