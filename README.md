@@ -1,125 +1,102 @@
 <div align="center">
 
-# 👾 Hey there! I'm Borshon Roy
+# Hi, I'm Borshon Roy 👋
 
-### `Web Developer` • `Problem Solver` • `Lifelong Learner`
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=borshon07&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/borshon07?label=FOLLOWERS&style=flat-square&logo=github" alt="Followers"/>
-</p>
+### Web Developer &nbsp;|&nbsp; Problem Solver &nbsp;|&nbsp; Lifelong Learner
 
 </div>
 
 ---
 
-## 👾 `ABOUT_ME`
+```bash
+$ whoami
+> Borshon Roy — Web Developer based in Bangladesh
 
-> I enjoy turning ideas into useful, clean, and user-friendly web experiences.
+$ cat about.txt
+> Turning ideas into clean, useful, and user-friendly web experiences.
+> Building real-world applications, solving problems through code,
+> and continuously learning modern web technologies.
 
-I'm a web developer who likes building real-world applications, solving problems through code, and continuously learning modern web technologies.
-
-* 🌱 Currently improving **JavaScript, React & TypeScript**
-* 💻 Building modern web applications
-* 🧠 Interested in problem solving
-* 🚀 Learning by building
-* ☕ Coffee → Code → Repeat
+$ status --current
+> 🌱 Sharpening skills in JavaScript, React & TypeScript
+> 💻 Building modern, responsive web applications
+> 🧠 Passionate about problem solving and clean architecture
+> ☕ Coffee → Code → Repeat
+```
 ---
 
-## 🎮 `TECH_STACK`
+## ⚙️ Languages & Tools
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="45"/>
-</p>
-
-### Backend & Database
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45"/>
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" height="45"/>
-</p>
-
----
-## 📊 `GITHUB_ANALYTICS`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=borshon07&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borshon07&layout=compact&hide_border=true&theme=tokyonight" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=borshon07&hide_border=true&theme=tokyonight" />
-</div>
-
----
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
-
-## 🛠️ Languages & Tools
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
-
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
-
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
-
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />
-
+  <img src="https://skillicons.dev/icons?i=git,vscode,npm" height="45"/>
 </p>
+
 ---
-## 📈 `CONTRIBUTION_ACTIVITY`
+
+📊 GITHUB_ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=borshon07&hide_border=true&area=true" width="100%" alt="Borshon Roy's GitHub Activity Graph"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borshon07&theme=tokyonight" alt="GitHub Stats"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borshon07&theme=tokyonight" alt="Repository Languages"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=borshon07&hide_border=true&theme=tokyonight" />
+
+</div>
+
+---
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Borshon+Roy;Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 `WHAT_I_BUILD`
+📈 CONTRIBUTION_ACTIVITY
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│  🌐  Modern Web Applications                │
-│  ⚙️   REST APIs & Backend Systems            │
-│  🎨  Responsive User Interfaces              │
-│  🧩  Real-World Problem Solving              │
-│  📚  Experimental & Personal Projects        │
-│                                              │
-└──────────────────────────────────────────────┘
-```
+<div align="center">
+<img 
+  src="https://fabianocouto-activity-graph.vercel.app/graph/?username=borshon07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
+  width="100%"
+  alt="Borshon Roy's GitHub Contribution Activity"
+/>
+</div>
+
+---
+
+## 🚀 What I Build
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Modern%20Web%20Apps-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-58a6ff?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Responsive%20UI-58a6ff?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-58a6ff?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
 ---
 ## 🐍 `CONTRIBUTION_SNAKE`
