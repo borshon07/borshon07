@@ -1,16 +1,128 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**borshon07/borshon07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 Hey there! I'm Borshon Roy
 
-Here are some ideas to get you started:
+### `Web Developer` • `Problem Solver` • `Lifelong Learner`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=borshon07&label=PROFILE%20VIEWS&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/borshon07?label=FOLLOWERS&style=flat-square&logo=github" alt="Followers"/>
+</p>
+
+</div>
+
+---
+
+## 👾 `ABOUT_ME`
+
+> I enjoy turning ideas into useful, clean, and user-friendly web experiences.
+
+I'm a web developer who likes building real-world applications, solving problems through code, and continuously learning modern web technologies.
+
+* 🌱 Currently improving **JavaScript, React & TypeScript**
+* 💻 Building modern web applications
+* 🧠 Interested in problem solving
+* 🚀 Learning by building
+* ☕ Coffee → Code → Repeat
+---
+
+## 🎮 `TECH_STACK`
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind" height="45"/>
+</p>
+
+### Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" height="45"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" height="45"/>
+</p>
+
+---
+## 📊 `GITHUB_ANALYTICS`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=borshon07&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borshon07&layout=compact&hide_border=true&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=borshon07&hide_border=true&theme=tokyonight" />
+</div>
+
+---
+
+## 📈 `CONTRIBUTION_ACTIVITY`
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=borshon07&theme=github-compact&hide_border=true&area=true"
+alt="Contribution Activity"
+/>
+
+</div>
+
+---
+
+## 🚀 `WHAT_I_BUILD`
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│  🌐  Modern Web Applications                │
+│  ⚙️   REST APIs & Backend Systems            │
+│  🎨  Responsive User Interfaces              │
+│  🧩  Real-World Problem Solving              │
+│  📚  Experimental & Personal Projects        │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+---
+## 🐍 `CONTRIBUTION_SNAKE`
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+---
+
+## 🌐 `CONNECT_WITH_ME`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/borshon-roy09">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/longshoot09/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:borshonroy73@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### `BUILD • LEARN • IMPROVE`
+⭐ Thanks for visiting my profile!
+</div>
