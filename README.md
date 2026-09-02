@@ -71,14 +71,9 @@ I'm a web developer who likes building real-world applications, solving problems
 ---
 ## 📈 `CONTRIBUTION_ACTIVITY`
 
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=borshon07&theme=github-compact&hide_border=true&area=true"
+alt="Contribution Activity"/>
 
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=borshon07&theme=github-compact&hide_border=true&area=true"
-alt="Contribution Activity"
-/>
-
-</div>
 
 ---
 
