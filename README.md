@@ -65,7 +65,10 @@ I'm a web developer who likes building real-world applications, solving problems
 </div>
 
 ---
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
 
+## 🛠️ Languages & Tools
+---
 ## 📈 `CONTRIBUTION_ACTIVITY`
 
 <div align="center">
@@ -127,4 +130,8 @@ alt="Contribution Activity"
 
 ### `BUILD • LEARN • IMPROVE`
 ⭐ Thanks for visiting my profile!
+</div>
+----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
