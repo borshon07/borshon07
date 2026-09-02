@@ -1,9 +1,11 @@
 <div align="center">
 
-# Hi, I'm Borshon Roy 👋
+# ░▒▓█ Hi,𝖨'𝗆 𝖡𝗈𝗋𝗌𝗁𝗈𝗇 𝖱𝗈𝗒👋█▓▒░
 
-### Web Developer &nbsp;|&nbsp; Problem Solver &nbsp;|&nbsp; Lifelong Learner
+</div>
 
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Borshon+Roy;Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </div>
 
 ---
@@ -67,11 +69,6 @@ $ status --current
 
 <img src="https://streak-stats.demolab.com?user=borshon07&hide_border=true&theme=tokyonight" />
 
-</div>
-
----
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Borshon+Roy;Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </div>
 
 ---
