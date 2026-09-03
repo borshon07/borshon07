@@ -21,8 +21,3 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           COMMIT_MSG: "docs(readme): update recent activity"
-
-      - name: Update Latest Repositories
-        uses: JinoArch/github-recent-repos@master
-        with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
