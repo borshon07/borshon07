@@ -58,17 +58,14 @@ $ status --current
 ## 📊 `GITHUB_ANALYTICS`
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borshon07&theme=tokyonight" alt="GitHub Stats"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borshon07&theme=tokyonight" alt="Repository Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borshon07&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borshon07&theme=tokyonight" alt="Repository Languages"/>
+</div>
 
 </div>
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=borshon07&hide_border=true&theme=tokyonight" />
-
+  <img src="https://streak-stats.demolab.com?user=borshon07&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
