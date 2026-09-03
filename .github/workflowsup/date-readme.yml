@@ -1,0 +1,30 @@
+name: Auto Update README
+
+on:
+  schedule:
+    # প্রতিদিন UTC 00:00 এ চলবে (বাংলাদেশ সময় সকাল ৬টা)
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+  workflow_dispatch: {}
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update Recent Activity section
+        uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          COMMIT_MSG: "docs(readme): update recent activity"
+
+      - name: Update Latest Repos section
+        uses: JinoArch/github-recent-repos@master
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
