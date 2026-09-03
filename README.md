@@ -1,6 +1,11 @@
 <div align="center">
 
-# ░▒▓█ Hi,𝖨'𝗆 𝖡𝗈𝗋𝗌𝗁𝗈𝗇 𝖱𝗈𝗒👋█▓▒░
+<h1 align="center">
+  <pre>
+> 𝙷𝚒, 𝙸 𝚊𝚖 𝙱𝚘𝚛𝚜𝚑𝚘𝚗
+> console.log("Hello Guys");
+  </pre>
+</h1>
 
 </div>
 
@@ -27,35 +32,42 @@ $ status --current
 ```
 ---
 
-## ⚙️ `Languages & Tools`
-
+## 🧰`Languages & Tools`
 <h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40" />
 </p>
-
 <h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" />
 </p>
-
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/express/2563EB" title="Express.js" alt="Express.js" width="40" height="40" />
+</p>
 <h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40" />
 </p>
-
-<h3 align="center">Tools</h3>
+<h3 align="center">Tools & Platforms</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,npm" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/EF4444" title="GitHub" alt="GitHub" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/npm/CB3837" title="npm" alt="npm" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40" />
 </p>
 
 ---
 
-## 📊 `GITHUB_ANALYTICS`
+## 💹 `GITHUB ANALYTICS`
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borshon07&theme=tokyonight" alt="GitHub Stats"/>
@@ -70,7 +82,7 @@ $ status --current
 
 ---
 
-## 📈 `CONTRIBUTION_ACTIVITY`
+## 🧭`CONTRIBUTION ACTIVITY`
 
 <div align="center">
 <img 
@@ -82,7 +94,7 @@ $ status --current
 
 ---
 
-## 🚀 `What I Build`
+## 🏗️ `What I Build`
 
 <p align="center">
   <img src="https://img.shields.io/badge/Modern%20Web%20Apps-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -100,10 +112,10 @@ $ status --current
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
+
 ---
 
-## 🌐 `CONNECT_WITH_ME`
-
+## 📮`CONNECT WITH ME`
 <div align="center">
 
 <a href="https://www.linkedin.com/in/borshon-roy09">
@@ -122,10 +134,9 @@ $ status --current
 
 ---
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=22C55E&center=true&vCenter=true&width=500&lines=BUILD+%E2%80%A2+LEARN+%E2%80%A2+IMPROVE)](https://git.io/typing-svg)
 <div align="center">
-
-### `BUILD • LEARN • IMPROVE`
-⭐ Thanks for visiting my profile!
+🌸 Thanks for visiting my profile!
 </div>
 
 
