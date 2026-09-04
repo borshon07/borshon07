@@ -2,8 +2,8 @@
 
 <h1 align="center">
   <pre>
-> 𝗛𝗶, 𝗜 𝗮𝗺 𝗕𝗼𝗿𝘀𝗵𝗼𝗻
-> console.log("Hello guys 👋");
+> 𝑯𝒊, 𝑰 𝒂𝒎 𝑩𝒐𝒓𝒔𝒉𝒐𝒏
+> console.log("Welcome to my profile 👋");
   </pre>
 </h1>
 
