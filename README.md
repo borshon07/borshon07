@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/borshon07/borshon07/main/assets/banner.png" width="100%" alt="Borshon Roy banner" />
-</div>
+![iamge alt] (https://github.com/borshon07/borshon07/blob/2c6261d20bdaac521bd5e1b7e5486264d4c52aba/borshon07-github-banner.png)
 
 <div align="center">
 
