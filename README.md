@@ -1,16 +1,5 @@
 ![iamge alt](https://github.com/borshon07/borshon07/blob/fe9896f4653170cc1c459340a75c81ec8859c052/borshon07-github-banner.png)
-
-<div align="center">
-
-<h1 align="center">
-  <pre>
-> 𝑯𝒊, 𝑰 𝒂𝒎 𝑩𝒐𝒓𝒔𝒉𝒐𝒏
-> console.log("Welcome to my profile 👋");
-  </pre>
-</h1>
-
-</div>
-
+---
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Borshon+Roy;Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </div>
