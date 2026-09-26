@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/borshon07/borshon07/main/assets/banner.png" width="100%" alt="Borshon Roy banner" />
+</div>
+
+<div align="center">
 
 <h1 align="center">
   <pre>
@@ -70,8 +74,8 @@ $ status --current
 ## 💹 `GITHUB ANALYTICS`
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=borshon07&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=borshon07&theme=tokyonight" alt="Repository Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=borshon07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borshon07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
 </div>
