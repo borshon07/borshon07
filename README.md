@@ -61,10 +61,8 @@ $ status --current
 ## 💹 `GITHUB ANALYTICS`
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=borshon07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borshon07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
+  <img height="165" src="profile/stats.svg" alt="GitHub Stats"/>
+  <img height="165" src="profile/top-langs.svg" alt="Top Languages"/>
 </div>
 
 <div align="center">
