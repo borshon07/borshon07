@@ -85,13 +85,32 @@ $ status --current
 
 ## 🏗️ `What I Build`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Modern%20Web%20Apps-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-58a6ff?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Responsive%20UI-58a6ff?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Problem%20Solving-58a6ff?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/googlechrome/F97316" width="32" height="32"/><br/>
+      <b>Modern Web Apps</b><br/>
+      <sub>Fast, responsive, production-ready</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/fastapi/F97316" width="32" height="32"/><br/>
+      <b>REST APIs</b><br/>
+      <sub>Clean, scalable backend services</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32"/><br/>
+      <b>Responsive UI</b><br/>
+      <sub>Pixel-perfect on every device</sub>
+    </td>
+    <td align="center" width="200">
+      <img src="https://cdn.simpleicons.org/leetcode/F97316" width="32" height="32"/><br/>
+      <b>Problem Solving</b><br/>
+      <sub>DSA, algorithms & clean logic</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 ## 🕹️ `Contribution Pacman `
