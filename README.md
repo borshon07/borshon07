@@ -1,4 +1,4 @@
-![iamge alt](https://github.com/borshon07/borshon07/blob/fe9896f4653170cc1c459340a75c81ec8859c052/borshon07-github-banner.png)
+![iamge alt](https://github.com/borshon07/borshon07/blob/7c16b32bd66ff00da93052bee09f06825a5ab73b/Dark%20Developer%20Portfolio%20Banner.png)
 ---
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Borshon+Roy;Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code" alt="Typing SVG" />
