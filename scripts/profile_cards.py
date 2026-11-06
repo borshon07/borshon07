@@ -19,16 +19,28 @@ def api(url):
     return json.load(urllib.request.urlopen(req, timeout=30))
 
 
-profile = api(f"https://api.github.com/users/{user}")
+def safe(fn, default, what):
+    try:
+        return fn()
+    except Exception as e:  # keep going with a fallback, but make the problem visible in the log
+        print(f"WARNING: could not fetch {what}: {e}", file=sys.stderr)
+        return default
+
+
+profile = api(f"https://api.github.com/users/{user}")  # required: fail loudly if this breaks
 repos = api(f"https://api.github.com/users/{user}/repos?per_page=100&type=owner")
 stars = sum(r["stargazers_count"] for r in repos)
-prs = api(f"https://api.github.com/search/issues?q=author:{user}+type:pr&per_page=1")["total_count"]
-issues = api(f"https://api.github.com/search/issues?q=author:{user}+type:issue&per_page=1")["total_count"]
+prs = safe(lambda: api(f"https://api.github.com/search/issues?q=author:{user}+type:pr&per_page=1")["total_count"], 0, "PR count")
+issues = safe(lambda: api(f"https://api.github.com/search/issues?q=author:{user}+type:issue&per_page=1")["total_count"], 0, "issue count")
 
 # contributions in the last year (public calendar)
-req = urllib.request.Request(f"https://github.com/users/{user}/contributions", headers={"User-Agent": "Mozilla/5.0"})
-html = urllib.request.urlopen(req, timeout=30).read().decode()
-contribs = sum(int(n) for n in re.findall(r'>\s*(\d+) contributions?\s+on', html))
+def _contribs():
+    req = urllib.request.Request(f"https://github.com/users/{user}/contributions", headers={"User-Agent": "Mozilla/5.0"})
+    page = urllib.request.urlopen(req, timeout=30).read().decode()
+    return sum(int(n) for n in re.findall(r'>\s*(\d+) contributions?\s+on', page))
+
+
+contribs = safe(_contribs, 0, "contributions")
 
 # languages (bytes) over non-fork repos
 langs = {}
