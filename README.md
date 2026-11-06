@@ -55,46 +55,11 @@ $ status --current
 
 ---
 
-## 🚀 `Featured Projects`
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/borshon07/B-14-A06--FitLog-by-Borshon"><b>FitLog</b></a><br/>
-      <sub>B-14-A06 · fitness tracking app</sub><br/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/borshon07/B-14-A01-DevConf-2026-"><b>DevConf 2026</b></a><br/>
-      <sub>B-14-A01 · conference landing page</sub><br/><br/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/borshon07/JavaScript_Problems_Solving_Practices"><b>JS Problem Solving Practices</b></a><br/>
-      <sub>Daily algorithm & logic practice</sub><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/borshon07/JavaScript_Problems_Solving-Mod"><b>JS Problem Solving – Mod</b></a><br/>
-      <sub>Module-wise problem solving</sub><br/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💹 `GITHUB ANALYTICS`
 
 <div align="center">
-  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-  <img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=borshon07&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img height="180" src="profile/stats.svg" alt="GitHub Stats" />
+  <img height="180" src="profile/top-langs.svg" alt="Top Languages" />
 </div>
 
 ---
@@ -102,11 +67,7 @@ $ status --current
 ## 🧭 `CONTRIBUTION ACTIVITY`
 
 <div align="center">
-  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-</div>
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/borshon07" alt="Contribution Chart" width="100%" />
+  <img src="profile/contributions.svg" alt="Borshon Roy's GitHub Contribution Activity" width="100%" />
 </div>
 
 ---
