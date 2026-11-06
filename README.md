@@ -74,32 +74,9 @@ $ status --current
 
 ## 🏗️ `What I Build`
 
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <h2>🌐</h2>
-      <b>Modern Web Apps</b><br/>
-      <sub>Fast, responsive, production-ready</sub>
-    </td>
-    <td align="center" width="220">
-      <h2>⚙️</h2>
-      <b>REST APIs</b><br/>
-      <sub>Clean, scalable backend services</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="220">
-      <h2>📱</h2>
-      <b>Responsive UI</b><br/>
-      <sub>Pixel-perfect on every device</sub>
-    </td>
-    <td align="center" width="220">
-      <h2>🧩</h2>
-      <b>Problem Solving</b><br/>
-      <sub>DSA, algorithms & clean logic</sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="profile/what-i-build.svg" alt="What I Build" width="100%" />
+</div>
 
 ---
 
