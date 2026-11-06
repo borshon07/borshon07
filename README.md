@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/borshon07/borshon07/7c16b32bd66ff00da93052bee09f06825a5ab73b/Dark%20Developer%20Portfolio%20Banner.png" alt="Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/borshon07/borshon07/fe9896f4653170cc1c459340a75c81ec8859c052/borshon07-github-banner.png" alt="Borshon Roy banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Borshon+Roy;Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Borshon+Roy;Full-Stack+Web+Developer+%7C+Problem+Solver;Turning+Ideas+Into+Code" alt="Typing SVG" />
 </div>
 
 ---
 
 ```bash
 $ whoami
-> Borshon Roy — Web Developer based in Bangladesh
+> Borshon Roy — Full-Stack Web Developer based in Bangladesh
 
 $ cat about.txt
 > Turning ideas into clean, useful, and user-friendly web experiences.
@@ -55,15 +55,42 @@ $ status --current
 
 ---
 
+## 🚀 `Featured Projects`
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/borshon07/B-14-A06--FitLog-by-Borshon"><b>FitLog</b></a><br/>
+      <sub>B-14-A06 · fitness tracking app</sub><br/><br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/borshon07/B-14-A01-DevConf-2026-"><b>DevConf 2026</b></a><br/>
+      <sub>B-14-A01 · conference landing page</sub><br/><br/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/borshon07/JavaScript_Problems_Solving_Practices"><b>JS Problem Solving Practices</b></a><br/>
+      <sub>Daily algorithm & logic practice</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/borshon07/JavaScript_Problems_Solving-Mod"><b>JS Problem Solving – Mod</b></a><br/>
+      <sub>Module-wise problem solving</sub><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💹 `GITHUB ANALYTICS`
 
 <div align="center">
-  <a href="https://github.com/borshon07">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=borshon07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/borshon07">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=borshon07&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
+  <img height="180" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="180" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -75,11 +102,11 @@ $ status --current
 ## 🧭 `CONTRIBUTION ACTIVITY`
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=borshon07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
-    width="100%"
-    alt="Borshon Roy's GitHub Contribution Activity"
-  />
+  <img src="profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/borshon07" alt="Contribution Chart" width="100%" />
 </div>
 
 ---
