@@ -10,17 +10,18 @@
 
 ```bash
 $ whoami
-> Borshon Roy — Full-Stack Web Developer based in Bangladesh
+> Borshon Roy — MERN Stack Developer based in Bangladesh
 
 $ cat about.txt
-> Turning ideas into clean, useful, and user-friendly web experiences.
-> Building real-world applications, solving problems through code,
-> and continuously learning modern web technologies.
+> Building modern, scalable, and user-friendly web applications.
+> Turning ideas into practical digital experiences through code.
+> Focused on clean code, problem solving, and continuous learning.
 
 $ status --current
-> 🌱 Sharpening skills in JavaScript, React & TypeScript
-> 💻 Building modern, responsive web applications
-> 🧠 Passionate about problem solving and clean architecture
+> 🌱 Sharpening skills in MongoDB, Express.js, React & Node.js
+> 💻 Building full-stack web applications
+> ⚡ Exploring JavaScript, TypeScript & Next.js
+> 🧠 Passionate about backend development and clean architecture
 > ☕ Coffee → Code → Repeat
 ```
 
