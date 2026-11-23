@@ -6,14 +6,14 @@
 <clipPath id="bar"><rect x="25" y="55" width="290" height="10" rx="5"/></clipPath>
 <rect x="25" y="55" width="290" height="10" rx="5" fill="#252a40"/>
 <g clip-path="url(#bar)">
-<rect x="25.00" y="55" width="236.53" height="10" fill="#3178c6"/>
-<rect x="261.53" y="55" width="27.72" height="10" fill="#f1e05a"/>
-<rect x="289.25" y="55" width="18.07" height="10" fill="#a371f7"/>
+<rect x="25.00" y="55" width="236.39" height="10" fill="#3178c6"/>
+<rect x="261.39" y="55" width="27.88" height="10" fill="#f1e05a"/>
+<rect x="289.27" y="55" width="18.06" height="10" fill="#a371f7"/>
 <rect x="307.32" y="55" width="4.42" height="10" fill="#e34c26"/>
 <rect x="311.74" y="55" width="3.21" height="10" fill="#3572A5"/>
 <rect x="314.95" y="55" width="0.05" height="10" fill="#9ece6a"/>
 </g>
-<circle cx="30" cy="96" r="5" fill="#3178c6"/><text class="n" x="41" y="100">TypeScript</text><text class="p" x="153" y="100" text-anchor="end">81.6%</text>
+<circle cx="30" cy="96" r="5" fill="#3178c6"/><text class="n" x="41" y="100">TypeScript</text><text class="p" x="153" y="100" text-anchor="end">81.5%</text>
 <circle cx="180" cy="96" r="5" fill="#f1e05a"/><text class="n" x="191" y="100">JavaScript</text><text class="p" x="303" y="100" text-anchor="end">9.6%</text>
 <circle cx="30" cy="122" r="5" fill="#a371f7"/><text class="n" x="41" y="126">CSS</text><text class="p" x="153" y="126" text-anchor="end">6.2%</text>
 <circle cx="180" cy="122" r="5" fill="#e34c26"/><text class="n" x="191" y="126">HTML</text><text class="p" x="303" y="126" text-anchor="end">1.5%</text>
